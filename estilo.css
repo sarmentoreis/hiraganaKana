@@ -1,0 +1,63 @@
+#titulo {
+    color: brown;
+}
+
+ruby > rt {
+    display:ruby;
+    font-size: 150%;
+    text-align: start;
+}
+
+ruby {
+    font-size: 23px;
+    font-weight: bolder;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.kaga {
+    background-color: rgb(250, 156, 156);
+}
+
+.saza {
+    background-color: rgb(244, 217, 113);
+}
+
+.tada {
+    background-color: rgb(153, 245, 103);
+}
+
+.habapa {
+    background-color: rgb(76, 208, 241);
+}
+
+.kigi {
+    background-color: rgb(246, 123, 123);
+}
+
+.shiji {
+    background-color: rgb(245, 212, 84);
+}
+
+.chidji {
+    background-color: rgb(123, 245, 58);
+}
+
+.hibipi {
+    background-color: rgb(30, 182, 220);
+}
+
+.kugu {
+    background-color: rgb(245, 97, 97);
+}
+
+.suzu {
+    background-color: rgb(227, 191, 48);
+}
+
+.tsudzu {
+    background-color: rgb(94, 212, 31);
+}
+
+.fubupu {
+    background-color: rgb(17, 149, 182);
+}
